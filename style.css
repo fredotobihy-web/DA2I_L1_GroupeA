@@ -91,44 +91,13 @@ margin-right: justify;
     align-items: center;
     gap: 2px;
 }
-input{
-    width: 400px;
-    height: fit-content;
-    margin-left: 20px;
-    display: flex;
-    
-}
-.placeholder{
-    justify-self: unset;
-    display: flexbox;
-    
-
-}
-textarea{
-    width: 400px;
-    height: fit-content;
-    background-color: rgba(72, 210, 230, 0.641);
-    margin-left: 20px;
-    display: flex;
-}
-button{
-    width: 80px;
-    height: 25px;
-    background-color:rgba(72, 219, 237, 0.642) ;border-radius: 10px;
-    margin-left:320px ;
-    display: flex;
-}
 nav{
     margin-left: 30px;
 }
 html{
     scroll-behavior: smooth;
 }
-section.contact{
-    background-color:mediumseagreen;
 
-    margin-top: 20px;
-}
 section.fade-in{
     background-color: mediumseagreen;
     margin-top: 20px;
